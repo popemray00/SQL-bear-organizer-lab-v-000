@@ -1,4 +1,4 @@
-"CREATE TABLE bears (
+CREATE TABLE bears (
   ID INTEGER PRIMARY KEYS,
   name TEXT,
   age INTEGER,
@@ -6,4 +6,4 @@
   color TEXT,
   temperament TEXT,
   alive BOOLEAN
-)";
+);
